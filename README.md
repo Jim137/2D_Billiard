@@ -12,12 +12,17 @@ The first feature of this project is to distinguish the 7 cases of billiard moti
 The 7 cases can be described as follows:
 
 * Initial angular velocity is zero.
+  
   1. Sliding without rolling before rolling without sliding
+   
 * Initial angular velocity is aligned with the velocity of the center of mass.
+  
   2. Rolling without sliding
   3. Sliding with micro-rolling before rolling without sliding
   4. Sliding with rolling before rolling without sliding
+   
 * Initial angular velocity is anti-aligned with the velocity of the center of mass.
+  
   5. Sliding with counter-rolling
   6. Sliding with counter-rolling to sliding without rolling before rolling without sliding
   7. Sliding with counter-rolling to counter-sliding without rolling before counter-rolling without sliding
