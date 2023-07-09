@@ -2,6 +2,8 @@
 
 A lose-to-reality physical modeling of billiard balls. Taking not only friction but also rolling resistance in to account, and considering the ball-ball interaction and ball-cushion impact.
 
+python version is WIP, by now, please refer to the [matlab version](https://github.com/Jim137/2D_Billiard/tree/matlab).
+
 ## Introduction
 
 This project is originated from my final project of "Experimental Physics" with Y.-H. Chi in my sophomore year [1]. 
